@@ -2,9 +2,10 @@ Project Overview
 This project showcases practical Linux skills including: Creating and executing shell scripts Using common Linux commands Automating system tasks Backing up directories using timestamps Monitoring system performance Automating file downloads Organizing and documenting the work in a GitHub repository All scripts are written in Bash and are designed to run on any Linux system (Ubuntu/WSL/VirtualBox).
 
 Scripts Included:
-1.backup.sh A script that creates a timestamped backup of a given directory. The backup is stored in the user’s ~/backups folder.
-2.monitoring.sh A simple automation script that logs CPU and memory usage every 10 seconds into a log file named: ~/system_usage.log
-3.download.sh A script that automatically downloads a file from a given URL using wget and stores it inside ~/downloads.
+
+1. backup.sh - A script that creates a timestamped backup of a given directory. The backup is stored in the user’s ~/backups folder.
+2. monitoring.sh - A simple automation script that logs CPU and memory usage every 10 seconds into a log file named: ~/system_usage.log
+3. download.sh - A script that automatically downloads a file from a given URL using wget and stores it inside ~/downloads.
 
 Instructions for Running the Scripts
 
